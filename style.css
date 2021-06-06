@@ -1,19 +1,7 @@
 main h1 { text-align: center;
     color: blue;
-background-color: aquamarine;
-}
-main p1 {
-    color: blueviolet;
-}
-main p2 {
-    color: brown;
-}
-main p3{
-    color: chartreuse;
-}
-main p4{
-    color: darkgoldenrod;
-}
+background-color: rosybrown;}
+ 
 footer {
     text-align: left;
     color: darksalmon;
