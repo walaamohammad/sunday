@@ -2,7 +2,7 @@ let userName = prompt('what is your name?');
 alert ('hello' + userName );
 console.log(userName);
 
-let place = prompt('where are you from'?);
+let place = prompt('where are you from?');
 alert ('welcome');
 console.log(`your place is ${place}, beatiful`);
 
