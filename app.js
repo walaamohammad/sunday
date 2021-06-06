@@ -1,4 +1,4 @@
-let userName =prompt('what is your name?');
+let userName = prompt('what is your name?');
 alert ('hello' + userName );
 console.log(userName);
 
